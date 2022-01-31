@@ -8,8 +8,7 @@
 - 🔭 I'm currently at **Compasso UOL** 📈
 - 🌱 I’m currently learning **Flutter/Dart💙**
 - 🤔 I’m looking for help with **Mobile dev** 
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_wessh)| ![Instagram](https://img.shields.io/badge/_wessh-DD2A7B.svg?style=flat-square&logo=Instagram&logoColor=white) | [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barros-006699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/)](https://www.linkedin.com/in/wessh/) |
-[![Gmail Badge](https://img.shields.io/badge/-wesshbr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com)](mailto:wesshbr@gmail.com)
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_wessh) º [![Instagram](https://img.shields.io/badge/_wessh-DD2A7B.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_wessh/) º [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barros-006699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/)](https://www.linkedin.com/in/wessh/) º [![Gmail Badge](https://img.shields.io/badge/-wesshbr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com)](mailto:wesshbr@gmail.com)
 - ⚡ Fun fact: Passionate about drone racing, I learned electronics so I could get into the hobby, and I have already lost two drones, one to a pole and the other to a bad installation.
 
 <!--
