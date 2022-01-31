@@ -8,8 +8,8 @@
 - 🔭 I'm currently at **Compasso UOL** 📈
 - 🌱 I’m currently learning **Flutter/Dart💙**
 - 🤔 I’m looking for help with **Mobile dev** 
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_wessh)](https://twitter.com/_wessh) | [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barros-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/)](https://www.linkedin.com/in/wessh/) |
-[![Gmail Badge](https://img.shields.io/badge/-wesshbr@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com)](mailto:wesshbr@gmail.com)
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_wessh)| ![Instagram](https://img.shields.io/badge/_wessh-DD2A7B.svg?style=flat-square&logo=Instagram&logoColor=white) | [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barros-006699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/)](https://www.linkedin.com/in/wessh/) |
+[![Gmail Badge](https://img.shields.io/badge/-wesshbr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com)](mailto:wesshbr@gmail.com)
 - ⚡ Fun fact: Passionate about drone racing, I learned electronics so I could get into the hobby, and I have already lost two drones, one to a pole and the other to a bad installation.
 
 <!--
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
   
 <br/>
-    <a href="https://github.com/Wessh"><img alt="Wessh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wessh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Wessh"><img alt="Wessh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wessh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide_rank=true" /></a>
   <a href="https://github.com/Wessh"><img alt="Wessh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wessh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
