@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 </div>
 
 <center>
+<div align="center">
 
 #### Favorite Technologies ⚡
 
@@ -64,4 +65,5 @@ Here are some ideas to get you started:
 <!--
 [![Aseprite Badge](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&labelColor=black&logo=aseprite&logoColor=7D929E)](#) 
 --->
+</div>
 </center>
