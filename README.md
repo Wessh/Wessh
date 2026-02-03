@@ -1,13 +1,13 @@
 
 <h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Wesley</h2>
-<h3 >I'm a passionate Mobile Developer from Brazil.</h3>
+<h3 >💻 Developer from Brazil | Flutter 💙 & .NET ⚙️</h3>
 <!---
 <img src="https://github.com/Wessh/Wessh/blob/Workplace/assets/developer.svg" width="30%" align="right"/>
 -->
 
 <!-- - 🔭 I'm currently at ** <> ** 📈 -->
-- 🌱 I’m currently learning **Flutter/Dart💙**
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_wessh) º [![Instagram](https://img.shields.io/badge/_wessh-DD2A7B.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_wessh/) º [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barros-006699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/)](https://www.linkedin.com/in/wessh/) º [![Gmail Badge](https://img.shields.io/badge/-wesshbr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com)](mailto:wesshbr@gmail.com)
+<p> I love turning ideas into code and exploring new technologies. Currently focused on mobile development with Flutter/Dart, and also building robust applications with .NET. </p>
+- 📫 How to reach me: [![Instagram](https://img.shields.io/badge/_wessh-DD2A7B.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_wessh/) º [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barros-006699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/)](https://www.linkedin.com/in/wessh/) º [![Gmail Badge](https://img.shields.io/badge/-wesshbr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com)](mailto:wesshbr@gmail.com)
 
 <!--
 **Wessh/Wessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
