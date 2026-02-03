@@ -4,10 +4,12 @@
 <!---
 <img src="https://github.com/Wessh/Wessh/blob/Workplace/assets/developer.svg" width="30%" align="right"/>
 -->
-
 <!-- - 🔭 I'm currently at ** <> ** 📈 -->
 <p> I love turning ideas into code and exploring new technologies. Currently focused on mobile development with Flutter/Dart, and also building robust applications with .NET. </p>
-- 📫 How to reach me: [![Instagram](https://img.shields.io/badge/_wessh-DD2A7B.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_wessh/) º [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barros-006699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/)](https://www.linkedin.com/in/wessh/) º [![Gmail Badge](https://img.shields.io/badge/-wesshbr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com)](mailto:wesshbr@gmail.com)
+- 📫 How to reach me: 
+<img src="https://img.shields.io/badge/_wessh-DD2A7B.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_wessh/" width="75" alt="Logo Instagran"/> 
+<img src="https://img.shields.io/badge/-Wesley%20Barros-006699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/" width="100" alt="Logo Linkedin"/> 
+<img src="https://img.shields.io/badge/-wesshbr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com" width="150" alt="Logo Gmail"/>
 
 <!--
 **Wessh/Wessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
