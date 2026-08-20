@@ -7,10 +7,19 @@
 <!-- - 🔭 I'm currently at ** <> ** 📈 -->
 <p> I love turning ideas into code and exploring new technologies. Currently focused on mobile development with Flutter/Dart, and also building robust applications with .NET. </p>
 - 📫 How to reach me: 
+<div>
+<a href="https://instagram.com/_wessh" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:wesshbr@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wessh" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<!--
+<a href="https://www.twitch.tv/_wessh" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/_wessh-DD2A7B.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_wessh/" width="75" alt="Logo Instagran"/> 
 <img src="https://img.shields.io/badge/-Wesley%20Barros-006699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessh/" width="100" alt="Logo Linkedin"/> 
 <img src="https://img.shields.io/badge/-wesshbr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesshbr@gmail.com" width="150" alt="Logo Gmail"/>
-
+-->
 <!--
 **Wessh/Wessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
