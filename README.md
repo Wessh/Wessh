@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4169E1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4169E1)](#)
 [![Unity Badge](https://img.shields.io/badge/-Unity-000?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFF)](#) 
 --->
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4169E1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4169E1)](#)
+
 [![Godot Badge](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&labelColor=black&logo=godotengine&logoColor=478CBF)](#) 
 <!--
 [![Aseprite Badge](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&labelColor=black&logo=aseprite&logoColor=7D929E)](#) 
