@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/Wessh"><img alt="Wessh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Wessh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Wessh">
+  <img alt="Wessh's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Wessh&theme=dark&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" />
+</a>
 
 <br/>
 <br/>
