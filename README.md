@@ -1,6 +1,6 @@
 
 <h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Wesley</h2>
-<h3 >💻 Developer from Brazil | Flutter 💙 & .NET ⚙️</h3>
+<h3 >💻 Developer from Brazil | .NET ⚙️ & Flutter 💙 </h3>
 <!---
 <img src="https://github.com/Wessh/Wessh/blob/Workplace/assets/developer.svg" width="30%" align="right"/>
 -->
